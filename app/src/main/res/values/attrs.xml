@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="CircleViewPagerIndicator">
+        <attr name="snap" format="boolean" />
+        <attr name="centered" format="boolean" />
+        <attr name="fillColor" format="color" />
+        <attr name="pageColor" format="color" />
+        <attr name="strokeColor" format="color" />
+        <attr name="radius" format="dimension" />
+        <attr name="strokeWidth" format="dimension" />
+        <attr name="pageSpace" format="dimension" />
+        <attr name="fillExtendWidth" format="dimension" />
+    </declare-styleable>
+
+</resources>
